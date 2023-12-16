@@ -4,13 +4,13 @@ let greeting = "Hello, ";
 let flag = false;
 
 // TODO: Update the value of 'age' by adding 5 to it.
-// Replace this line with your code.
+ age = age + 5;
 
 // TODO: Concatenate the string "World!" to 'greeting'.
-// Replace this line with your code.
+greeting += "World!";
 
 // TODO: Change the value of 'flag' to true.
-// Replace this line with your code.
+flag = true;
 
 // Log Updated Values
 console.log(`Updated age: ${age}`);
